@@ -1,0 +1,52 @@
+2026-03-26 16:30:01,447 [INFO] Job start time: 2026-03-26 11:00:01
+2026-03-26 16:30:01,447 [INFO] Loading configuration from config.yaml
+2026-03-26 16:30:01,448 [INFO] Config validation successful
+2026-03-26 16:30:01,448 [INFO] Random seed set to 42
+2026-03-26 16:30:01,449 [INFO] Loading data from data.csv
+2026-03-26 16:30:01,504 [INFO] Successfully loaded 10 rows
+2026-03-26 16:30:01,505 [INFO] Starting processing steps
+2026-03-26 16:30:01,505 [INFO] Computing rolling mean with window=5
+2026-03-26 16:30:01,508 [INFO] Generating trading signals
+2026-03-26 16:30:01,509 [INFO] Processing complete. Computing metrics summary.
+2026-03-26 16:30:01,509 [INFO] Metrics: rows_processed=10, signal_rate=0.3000, latency_ms=64
+2026-03-26 16:30:01,510 [INFO] Successfully wrote metrics to metrics.json
+2026-03-26 16:30:01,511 [INFO] Job completion status: SUCCESS
+2026-03-26 16:37:05,695 [INFO] Job start time: 2026-03-26 11:07:05
+2026-03-26 16:37:05,696 [INFO] Loading configuration from config.yaml
+2026-03-26 16:37:05,697 [INFO] Config validation successful
+2026-03-26 16:37:05,698 [INFO] Random seed set to 42
+2026-03-26 16:37:05,698 [INFO] Loading data from data.csv
+2026-03-26 16:37:05,707 [INFO] Successfully loaded 10 rows
+2026-03-26 16:37:05,707 [INFO] Starting processing steps
+2026-03-26 16:37:05,708 [INFO] Computing rolling mean with window=5
+2026-03-26 16:37:05,708 [INFO] Generating trading signals
+2026-03-26 16:37:05,710 [INFO] Processing complete. Computing metrics summary.
+2026-03-26 16:37:05,710 [INFO] Metrics: rows_processed=10, signal_rate=0.3000, latency_ms=16
+2026-03-26 16:37:05,711 [INFO] Successfully wrote metrics to metrics.json
+2026-03-26 16:37:05,711 [INFO] Job completion status: SUCCESS
+2026-03-26 16:47:04,167 [INFO] Job start time: 2026-03-26 11:17:04
+2026-03-26 16:47:04,168 [INFO] Loading configuration from config.yaml
+2026-03-26 16:47:04,169 [INFO] Config validation successful
+2026-03-26 16:47:04,169 [INFO] Random seed set to 42
+2026-03-26 16:47:04,170 [INFO] Loading data from data.csv
+2026-03-26 16:47:04,179 [INFO] Successfully loaded 10 rows
+2026-03-26 16:47:04,180 [INFO] Starting processing steps
+2026-03-26 16:47:04,180 [INFO] Computing rolling mean with window=5
+2026-03-26 16:47:04,182 [INFO] Generating trading signals
+2026-03-26 16:47:04,183 [INFO] Processing complete. Computing metrics summary.
+2026-03-26 16:47:04,183 [INFO] Metrics: rows_processed=10, signal_rate=0.3000, latency_ms=17
+2026-03-26 16:47:04,184 [INFO] Successfully wrote metrics to metrics.json
+2026-03-26 16:47:04,184 [INFO] Job completion status: SUCCESS
+2026-03-26 17:05:52,206 [INFO] Job start time: 2026-03-26 11:35:52
+2026-03-26 17:05:52,207 [INFO] Loading configuration from config.yaml
+2026-03-26 17:05:52,209 [INFO] Config validation successful
+2026-03-26 17:05:52,211 [INFO] Random seed set to 42
+2026-03-26 17:05:52,211 [INFO] Loading data from data.csv
+2026-03-26 17:05:52,295 [INFO] Successfully loaded 10 rows
+2026-03-26 17:05:52,295 [INFO] Starting processing steps
+2026-03-26 17:05:52,295 [INFO] Computing rolling mean with window=5
+2026-03-26 17:05:52,297 [INFO] Generating trading signals
+2026-03-26 17:05:52,299 [INFO] Processing complete. Computing metrics summary.
+2026-03-26 17:05:52,300 [INFO] Metrics: rows_processed=10, signal_rate=0.3000, latency_ms=95
+2026-03-26 17:05:52,300 [INFO] Successfully wrote metrics to metrics.json
+2026-03-26 17:05:52,301 [INFO] Job completion status: SUCCESS
