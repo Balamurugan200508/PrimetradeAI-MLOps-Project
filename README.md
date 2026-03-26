@@ -65,6 +65,22 @@ docker run primetradeai-pipeline
 
 *The Docker container is configured to securely run the pipeline and automatically stream the generated metrics to standard output.*
 
+## 📊 Example Output
+
+When the pipeline runs successfully, it generates a `metrics.json` file structured like this:
+
+```json
+{
+  "version": "v1.0",
+  "rows_processed": 10,
+  "metric": "signal_rate",
+  "value": 0.3,
+  "latency_ms": 17,
+  "seed": 42,
+  "status": "success"
+}
+```
+
 ---
 
 **Author:** [Balamurugan200508](https://github.com/Balamurugan200508)
